@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<table>
+
+    <tr>
+
+        <td>foo</td>
+        <td>bar</td>
+
+    </tr>
+
+    <tr>
+
+        <td>a</td>
+        <td>1</td>
+
+    </tr>
+
+    <tr>
+
+        <td>b</td>
+        <td>2</td>
+
+    </tr>
+
+    <tr>
+
+        <td>c</td>
+        <td>2</td>
+
+    </tr>
+
+</table>

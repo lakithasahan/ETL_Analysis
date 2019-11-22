@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "formidable-card-254405",
+  "private_key_id": "1e963e1d9d8661c7abc7f076ead43703a5209a15",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDBeAicJu1VSHzf\nyUWN/kWN8y4ZYMpVGenCexWK74S6y1uirngkger9JF5hu/BIDzjdVoGhWYyblkRB\nXRU9BI8/F4FVq0ijwOv2HTJ+fphGC/LGPSJqgSpHKADjkyAtWkiWPdORRkmn/oNv\nTv5BCLyH91v8ZryEb7n383gfCAg1PHINi+mV/3zFhdnchJbdrmlrlxi4TXAlqHhT\nKiJjY0qag7p9lHVpo5LnL16H1vlf5QjyRTdtuKsO3YzLt/9umK6LyMoalyrcW72I\nY84BdVfcBtnGtfVrGQlmwY9IoAiOF6Xm0PESkBVVE+tEignL3opecyd+NqXGR0nd\ntnXdvoXfAgMBAAECggEAFz94cA8rbhfqTYKO6vD25Fz9mUtstMzgLqBXZofBStLx\n8tAFRtnHu4iEa45yYVkBlnNKhhwlIx3A8PEhrWCKuA732dazFrOxhwmwziDMj9To\nD5M8EKaZxngo9y/FlOg9mF7bOUtEFuhPXJpA6jQFt6RCjPIUItPsJGlAx3XRyq0A\nc+90rOQGffUFz0TiqWV6sdnCakksKkgmJzFwAzjsfJqFErqtlDxKMtF101iV3Gjw\n/18G0ceYnnzvFgSeVWkNI55yAkIuvOlAhzdTjPE2fNc+b8dJGOued/BlMUkuJjVi\nH0abDfSkuEUiJ7zXAn6r1NoaR0fVCVoWeM4vov2CZQKBgQDep2WZMGQJ05W6rTGu\nNl22wxGh+JcXzUIW9mhG+z4BSArTN3wH8YWctq8pqqZp+AwjHuXVAkq0z/H5+B30\ngG5W33iXeXmhhQzOvMzQZbcOoehqJSCkdEOPfuScINQ+W8MayzcdKoHHLVQR9+7b\nKA0LMWiZ+eFO1U79A6ZnHDR1hQKBgQDeca0sFJkZ+So5qzVDsnzbJAi8WdDCQsW7\nSxjyuFv+pvEw1GHfhhEg/hk8MJsuwZ9YwBQpcjcocI04BkjjQ9/fRud3UkYOkERL\nR4ipnJtlr3UFW90/fYKCrkfqg3Lu8bn4tMzWT1zm8TDV6tGxuE2IqXF0pxXepy9t\naUo5z8GpEwKBgHKYz+b3jBWurBrnt3FGFBfT8MhfzUx33bM54dPezjwUm1W48gKY\nob9WG3OjnIFgJMcSyRJIWrETciTJOom0bJYT8NptsFecxknFzNjZ8Uz7skank1Rx\nbrB1jC57iyIJUrMAsv40+ZTNVL7m0C5GP+hp5r+RaBCOI1iAP25Eiw+NAoGAGtus\n5hqilcFA+O+UIdVmP+ts5pkNnLcFOuUJYR0jdm7fxl6OZrfAT7R+hYb05cNZIxUm\nGg8BW++jDXWszUv/tuzPu9eCP/XpWRGNDbWsCa4Sug/qeeUEohS6+DTg5rrnEoF6\nDhJNDFFo7RtKMGQpcGvNGCGogVa8YkCJRsuv/WMCgYBJ0UeKvD5+7fORYIz0XhhA\ntHxPa3E1HBQ4QvkRfoVExsm6R8Ka6uXMD7cn2tZrQ5uTQ/PJpRrgq3re9gkGbHln\n+yJgzu0mg6uPs2rW9E9G0dMBPBzHpkyurYXZiK44Csz5BvciKcF75sghyg7+MogF\ni/HHG0DD0ztDEyRskUSt1A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-accsess@formidable-card-254405.iam.gserviceaccount.com",
+  "client_id": "100377644948797816668",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-accsess%40formidable-card-254405.iam.gserviceaccount.com"
+}
